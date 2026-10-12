@@ -1,1 +1,2 @@
-a=list(enume)
+a=list(enumerate(["a,b"]))
+print(a)
