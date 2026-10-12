@@ -1,0 +1,2 @@
+is_subset={1,2}.issubset({1,2,3})
+print(is_subset)
